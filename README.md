@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zsaaupo
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning 日本語
+- 💞️ I’m looking to collaborate on Django project
+- 📫 How to reach me https://www.linkedin.com/in/zsaaupo/
