@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zsaaupo
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Django project
-- 📫 How to reach me https://www.linkedin.com/in/zsaaupo/
+- 🌱 I’m currently expanding my skillset to include JavaScript
+- 💞️ I am seeking collaboration opportunities for Django projects.
+- 📫 Connect with me on LinkedIn at https://www.linkedin.com/in/zsaaupo to discuss potential projects and how we can work together.
