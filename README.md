@@ -15,16 +15,13 @@
 
 - 📄 Know about my experiences [https://zsaaupo.my.canva.site/](https://zsaaupo.my.canva.site/)
 
+## 📊 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zsaaupo&layout=compact&theme=dark)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zsaaupo&show_icons=true&theme=dark&locale=en&layout=compact" alt="zsaaupo" /></p>
+![Stats](https://github-readme-stats.vercel.app/api?username=zsaaupo&show_icons=true&theme=dark)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zsaaupo&show_icons=true&theme=dark&locale=en" alt="zsaaupo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zsaaupo&theme=dark" alt="zsaaupo" /></p>
-
-
-
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zsaaupo&theme=dark)
 
 
 <h3 align="left">Languages and Tools:</h3>
