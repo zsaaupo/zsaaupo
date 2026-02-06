@@ -15,14 +15,6 @@
 
 - 📄 Know about my experiences [https://zsaaupo.my.canva.site/](https://zsaaupo.my.canva.site/)
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zsaaupo&layout=compact&theme=dark)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=zsaaupo&show_icons=true&theme=dark)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zsaaupo&theme=dark)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
