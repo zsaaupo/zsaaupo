@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Zakaria Sarker</h1>
 <h3 align="center">A Aspiring Python Developer</h3>
 
-- 🔭 I’m currently working on [Fish storage management](https://github.com/zsaaupo/eliteFish) & [Teacher management system](https://github.com/zsaaupo/TeacherManagamentSystem)
+- 🔭 I’m currently working on [Heart Disease Detection using Machine learning](https://github.com/zsaaupo/HeartDiseaseDetection) & [Teacher management system](https://github.com/zsaaupo/TeacherManagamentSystem)
 
 - 🌱 I’m currently learning **JS and React**
 
